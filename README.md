@@ -1,2 +1,2 @@
 # MSA_Project
-Wardrobe Wizard App
+PetConnect App
