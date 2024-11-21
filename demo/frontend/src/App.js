@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Adoption App</h1>
+        <h1>Pet Connect App</h1>
       </header>
       <UserList /> {/* Display the user list */}
     </div>
